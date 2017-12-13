@@ -82,7 +82,7 @@ let myDogs=[
 // Structural equality by default
 // Can't have uninitialized variables
 // Eliminates a ton of defensive programming
-
+// there are a lot of new code smells, (like one of the above)
 
 // Predictable Code: Can you understand the code using only what you can see right now (no diving into the codebase, using tools, etc)
 
